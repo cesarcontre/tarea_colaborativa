@@ -1,3 +1,7 @@
-Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
+﻿Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
 César_Contreras_1
-hola
+Eduardo_Acosta_2
+
+El repositorio remoto actualizado se puede encontrar en las url's
+https://github.com/cesarcontre/tarea_colaborativa
+https://github.com/dixi1903/tarea_colaborativa

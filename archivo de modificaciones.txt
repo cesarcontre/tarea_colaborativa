@@ -1,2 +1,3 @@
-Este archivo ser· utilizado para emular modificaciones en el proyecto colaborativo.
-CÈsar_Contreras_1
+Este archivo ser√° utilizado para emular modificaciones en el proyecto colaborativo.
+C√©sar_Contreras_1
+hola
